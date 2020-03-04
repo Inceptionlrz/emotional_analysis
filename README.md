@@ -3,7 +3,7 @@
 包含爬虫,Scala代码,Spark,Hadoop,ElasticSearch,logstash,Flume,echarts,log4j<br/>
 
 emotional_analysis_spider     爬虫模块<br/>
-emotional_analysis_web        数据处理模块(Scala代码)<br/>
+emotional_analysis_process      数据处理模块(Scala代码)<br/>
 emotional_analysis_recommend  推荐模块目前还未开发<br/>
 emotional_analysis_web        报表展现模块<br/>
 
